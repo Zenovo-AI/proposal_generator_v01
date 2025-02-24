@@ -31,3 +31,6 @@ trafilatura
 pdfplumber
 google-cloud-storage 
 gcsfs
+extractor
+fitz
+lightrag
